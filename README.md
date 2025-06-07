@@ -2,7 +2,6 @@
 # 💬 Real-Time Chat App
 
 A real-time chat application built using **React.js**. Users can join chat rooms, send and receive messages, and experience real-time updates powered by **Firebase Firestore**.
-
 ---
 
 ## 📌 Features Implemented
@@ -46,5 +45,10 @@ A real-time chat application built using **React.js**. Users can join chat rooms
  ┣ 📄 App.js
  ┣ 📄 firebaseConfig.js
  ┗ 📄 index.js
+
+![app image](https://github.com/user-attachments/assets/da9772cb-ce76-487c-b6e5-59cd0c687250)
+
+
+
 
 
