@@ -34,4 +34,17 @@ A real-time chat application built using **React.js**. Users can join chat rooms
 ---
 
 ## 📁 Project Structure (Simple View)
+📁 src
+ ┣ 📁 components
+ ┃ ┣ 📄 ChatRoom.js
+ ┃ ┣ 📄 MessageInput.js
+ ┃ ┣ 📄 MessageList.js
+ ┃ ┗ 📄 OnlineUsers.js
+ ┣ 📁 pages
+ ┃ ┣ 📄 Home.js
+ ┃ ┗ 📄 Room.js
+ ┣ 📄 App.js
+ ┣ 📄 firebaseConfig.js
+ ┗ 📄 index.js
+
 
