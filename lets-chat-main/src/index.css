@@ -5,7 +5,7 @@
 .emoji-picker-react {
   @apply bg-white dark:bg-gray-800
   }
-
+.
   .emoji-picker-react .emoji-search {
     @apply dark:bg-gray-800  dark:text-white dark:border-gray-700 dark:focus:border-sky-500
     }
